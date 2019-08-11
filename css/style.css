@@ -355,6 +355,18 @@ body {
     background: url(../images/loader.gif) center center no-repeat;
 }
 
+@media (max-width:1028px) {
+    .main {
+        font-size: 30px;
+    }
+    
+    .arrow-big {
+    font-size: 1.875rem;
+    color: white;
+    padding: 0.938rem;
+    }
+}
+
 
 
 
